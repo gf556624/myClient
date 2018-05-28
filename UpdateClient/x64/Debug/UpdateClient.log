@@ -1,0 +1,9 @@
+﻿  Moc'ing ChUpdateWidget.h...
+  Moc'ing ChFileTransfer.h...
+  moc_ChFileTransfer.cpp
+  moc_ChUpdateWidget.cpp
+  ChFileTransfer.cpp
+  ChUpdateWidget.cpp
+  main.cpp
+  UpdateClient.vcxproj -> E:\Work\QtDemo\UpdateClient\x64\Debug\UpdateClient.exe
+  UpdateClient.vcxproj -> E:\Work\QtDemo\UpdateClient\x64\Debug\UpdateClient.pdb (Full PDB)

@@ -1,0 +1,27 @@
+[20180525 16:18:18.046 D] ChUpdateWidget.cpp:111 - connect
+[20180525 16:18:18.088 D] ChUpdateWidget.cpp:50 - connected
+[20180525 16:18:18.343 D] ChUpdateWidget.cpp:144 - read msg
+[20180525 16:18:18.348 D] ChUpdateWidget.cpp:161 - return message =  Equipment Name:         RSWP128SELN
+SN:                     123456789012
+Sensor Type:            CCD
+Shutter Type:           Global Shutter
+Max Resolution:         1920x1440
+Max FrameRate:          30.0fps
+BIOS Version:           
+CPU ID:                 00 00 00 00 00 00 00 00
+Main Board Version:     
+Main Board Mfn:         1
+IntF Board Version:     
+Expand Board Version:   
+Sensor Code:            
+Sensor Board Version:   
+
+
+Registered Modules Information:
+
+Name: roseek_wp1_maincore              Version: 1.19 Date: Nov_28_2017 Description: Main core module for wp1
+Name: roseek_ct1_fpga                  Version: x.xx Date: xxx_xx_xxxx Description: FPGA module for ct1
+
+[20180525 16:18:18.362 D] ChUpdateWidget.cpp:161 - return message =  固件版本不匹配，请选择匹配的固件文件和相应的升级文件进行升级
+[20180525 16:18:18.368 D] ChUpdateWidget.cpp:155 - update msg =  
+[20180525 16:18:18.401 D] ChFileTransfer.cpp:132 - file socket connected
